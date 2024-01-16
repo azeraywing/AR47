@@ -10,6 +10,7 @@ AR47 by azeraywing
 		KNS Takedown pin set
 		Ghost Gunner buffer tube mount
 		M3x.5 Tap
+		4x 1" x .125 Dowel pins (for jig)
 		(Optional) M3 press in nuts		https://www.mcmaster.com/94674A604/
 
 	An upper and bolt carrier must either be specifically purchased or modified to work with Magpul Ak-47 mags
