@@ -1,0 +1,29 @@
+AR47 by azeraywing
+
+	Hardware
+		4x M3 x 0.5 x 30mm SHCS
+		8x M3 x 0.5 x 6mm
+		3x M3 x 0.5 x 25mm
+		4x M3 x 0.5 x 18mm
+		2x M3 x 0.5 x 8mm
+		2x M3 x 0.5 x 16mm
+		KNS Takedown pin set
+		Ghost Gunner buffer tube mount
+		M3x.5 Tap
+		(Optional) M3 press in nuts		https://www.mcmaster.com/94674A604/
+
+	An upper and bolt carrier must either be specifically purchased or modified to work with Magpul Ak-47 mags
+	RRA has uppers and BCG's that are alread made for this purpose.
+		https://www.rockriverarms.com/index.cfm?fuseaction=category.display&category_ID=1851
+		https://www.rockriverarms.com/index.cfm?fuseaction=category.display&category_ID=1730
+
+	Optional Operations
+		Besides tapping the threads directly into the aluminum plate, you can also utilize press in
+		threaded nuts for far stronger threads. Simply drill out the threaded holes with a .1732" drill
+		(4.35mm) then press in the nuts with the hex head oriented away from where the bolt head would be.
+
+	Magwell bending jig
+		Utilize the flat spots just above the front takedown hole for alighment before bending, and don't
+		bend two of the same sides, make sure they are mirrored.
+
+		Shave down all screws to be flush when mounted, follow the step file for the mag catch to be modified.
